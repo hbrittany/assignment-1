@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	background-colour: #ccc;
+}
+
+body {
+	background-color: #e2e2e2;
+	width: 25em;
+	margin: 0 auto;
